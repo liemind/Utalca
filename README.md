@@ -1,6 +1,6 @@
 # Utalca
 ==========
-Ordenado según carrera cursada.
+#Ordenado según carrera cursada.
 
 Ingenieria Civil en Computacion
 --------------------
